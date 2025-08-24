@@ -1,0 +1,13 @@
+{
+    "v1/auth/refresh": {
+        "data": {
+            "access_token": "mock-access_token"
+        }
+    },
+
+    "v2/auth/refresh": {
+        "data": {
+            "access_token": "mock-access_token_2"
+        }
+    }
+}
